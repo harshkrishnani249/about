@@ -1,0 +1,136 @@
+.gfg {
+    
+   
+    position: relative;
+}
+
+.first-text {
+    position: absolute;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    top: 17px;
+    left: 20px;
+
+}
+.second-text {
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 20px;
+    left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.happy {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 110%;
+    
+    
+}
+
+.set {
+    padding-top: 15%;
+    height: 30%;
+    width: 35%;
+}
+
+.third-text {
+    padding-left: 13%;
+    padding-bottom: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.fourth-text {
+    
+    text-align: center;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.fifth-text {
+    padding-left: 50px;
+    margin-left: 60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.sixth-text {
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+
+
+}
+
+.reset {
+    padding-top: 10%;
+
+    height: 30%;
+    width: 35%;
+
+
+}
+
+.seventh-text{
+    text-align: center;
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.eighth-text {
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.nine-text {
+    text-align: center;
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5%;
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tenth-text {
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.marketset{
+    padding-top: 13%;
+    height: 30%;
+    width: 35%;
+    
+
+
+
+}
+
+.setting {
+
+    padding-top: 13%;
+    height: 30%;
+    width: 35%;
+
+
+
+}
+
+
+
