@@ -1,0 +1,45 @@
+ h1 {
+ 
+    padding: 50px 50px;
+}
+
+ p {
+     padding-top: 200px;
+     padding-right: 300px ;
+     justify-content: end;
+     justify-content: left ;
+     margin-left: 10px;
+     justify-items: left;
+     align-items: left;
+     float: left;
+
+
+  
+
+    
+
+}
+
+.design {
+    margin-top: 20px;
+    width: fit-content;
+    padding-top: 20px;;
+
+ 
+
+
+}
+
+
+
+.container1 {
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: flex-start;
+}
+img {
+    padding-right: 100px;
+    
+    
+}
